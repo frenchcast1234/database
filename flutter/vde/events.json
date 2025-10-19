@@ -33,5 +33,19 @@
     "date": "18-08-2027",
     "subject": "Les flatulences sentent bon !",
     "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/prout.png"
+  },
+  {
+    "title": "Les voitures du futur",
+    "organisateur": "Peugeot & Peugeot",
+    "date": "du 15-03-2026 au 18-03-2026",
+    "subject": "Quelles seront les voitures dans le futur",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/automobile.png"
+  },
+  {
+    "title": "The water",
+    "organisateur": "Emmanuel Macron",
+    "date": "78-48-5874",
+    "subject": "The price of the water in the futur",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/drop.png"
   }
 ]
