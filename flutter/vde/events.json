@@ -1,0 +1,21 @@
+{
+  'title': 'Conférence vive le pétrole',
+  'organisateur': 'Total Energies',
+  'date': '12-01-2027',
+  'subject': 'Les bienfaits du pétrole pour l\'environnement',
+  'avatar': 'fiole'
+},
+{
+  'title': 'General Electric',
+  'organisateur': 'General Electric',
+  'date': '2024-08-20',
+  'subject': 'Aucune idée',
+  'avatar': 'foudre'
+},
+{
+  'title': 'Alain D. VS Eunji W.',
+  'organisateur': 'Les anti-VdE',
+  'date': '32-03-2026',
+  'subject': 'Qui va gagner dans ce combat de boxe épique ?',
+  'avatar': 'caca'
+}
