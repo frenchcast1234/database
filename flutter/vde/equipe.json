@@ -8,7 +8,8 @@
       "Gagnant 2024 du plus gros zeub teubé de France",
       "Chef général de l'armé française section bordélique"
     ],
-    "poste": "PDG"
+    "poste": "Femme de ménage",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/manu.jpg"
   },
   {
     "who": "Christine Lekaka",
@@ -18,7 +19,8 @@
       "Licence en Ingénierie du Sandwich Parfait",
       "Doctorat en Psychologie des Chaises de Bureau"
     ],
-    "poste": "Directeur RH"
+    "poste": "Prof de philosophie",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/christine.jpg"
   },
   {
     "who": "Charlotte Ofraises",
@@ -30,7 +32,8 @@
       "Diplôme d'État en Danse Interprétative des Fichiers Excel",
       "MBA en Gestion Stratégique des Files d'Attente"
     ],
-    "poste": "Employée"
+    "poste": "Prof de langues",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/charlotte.jpg"
   },
   {
     "who": "Maria-Hélène Landouille",
@@ -41,6 +44,7 @@
       "Lauréat 2016 du Grand Prix National du Zeub d'Or (catégorie Confusion totale et incompétence assumée)",
       "Cheffe Suprême de l'Armée Française – Section Bordélique et Désarçonnée, garant du chaos administratif"
     ],
-    "poste": "Caissière (ne sert à rien dans ce boulot)"
+    "poste": "Prof de chômage",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/maria-helene.jpg"
   }
 ]
