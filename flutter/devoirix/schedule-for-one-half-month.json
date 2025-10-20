@@ -1,1 +1,45 @@
-
+{
+  "liste des matières": {
+    "langues": [
+      "Anglais lv1",
+      "Serbo-croate lv2",
+      "Russe lv3",
+      "Français"
+    ],
+    "sciences": [
+      "Mathématiques",
+      "Phyique quantique",
+      "Physique des fluides",
+      "Technologie",
+      "Micro-technologie",
+      "Biologie"
+    ],
+    "sports": [
+      "Parachute EPS",
+      "Dressage canin EPS"
+      
+    ]
+  }
+  "semaine1": {
+    "lundi": [
+      { "from": 7, "to": 9, "what": "Serbo-croate lv2" },
+      { "from": 9, "to": 10, "what": "Phisique quantique" },
+      { "from": 10, "to": 13, "what": "Parachute EPS" },
+      { "from": 13, "to": 14, "what": "Cantine" },
+      { "from": 14, "to": 16, "what": "Anglais lv1" },
+      { "from": 16, "to": 17, "what": "Russe lv3" },
+      { "from": 17, "to": 19, "what": "Technologie" },
+      { "from": 19, "to": 22.5, "what": "Biologie" },
+    ],
+    "mardi": [
+      { "from": 7, "to": 8, "what": "Latin" },
+      { "from": 8, "to": 10, "what": "Dressage canin EPS" },
+      { "from": 10, "to": 13, "what": "Physique quantique" },
+      { "from": 13, "to": 14, "what": "Cantine" },
+      { "from": 14, "to": 15, "what": "Biologie" },
+      { "from": 15, "to": 16, "what": "Russe lv3" },
+      { "from": 17, "to": 19, "what": "Technologie" },
+      { "from": 19, "to": 22.5, "what": "Biologie" },
+    ]
+  }
+}
