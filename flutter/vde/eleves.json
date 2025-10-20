@@ -1,0 +1,73 @@
+[
+  {
+    "who": "Kévin Brindepoussière",
+    "email": "kevin.brindepoussiere@example.fr",
+    "classe": "6A",
+    "specialite": "Collectionne les stylos explosés",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/anonymous.jpg"
+  },
+  {
+    "who": "Léa Tartiflette",
+    "email": "lea.tartiflette@example.fr",
+    "classe": "6A",
+    "specialite": "Fait des dissertations sur les frites",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/anonymous.jpg"
+  },
+  {
+    "who": "Tommy Saucisson",
+    "email": "tommy.saucisson@example.fr",
+    "classe": "6B",
+    "specialite": "Inventeur du lancer de gomme stratégique",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/anonymous.jpg"
+  },
+  {
+    "who": "Inès Patafix",
+    "email": "ines.patafix@example.fr",
+    "classe": "6B",
+    "specialite": "Colle tout ce qu’elle trouve (y compris ses copains)",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/anonymous.jpg"
+  },
+  {
+    "who": "Rayan Laplume",
+    "email": "rayan.laplume@example.fr",
+    "classe": "6C",
+    "specialite": "Écrit ses contrôles en hiéroglyphes",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/anonymous.jpg"
+  },
+  {
+    "who": "Océane Bouchon",
+    "email": "oceane.bouchon@example.fr",
+    "classe": "6C",
+    "specialite": "Peut dormir les yeux ouverts",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/anonymous.jpg"
+  },
+  {
+    "who": "Lucas Duriz",
+    "email": "lucas.duriz@example.fr",
+    "classe": "6D",
+    "specialite": "Éternue en morse",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/anonymous.jpg"
+  },
+  {
+    "who": "Chloé Marmelade",
+    "email": "chloe.marmelade@example.fr",
+    "classe": "6D",
+    "specialite": "Transforme tout en confiture à la cantine",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/anonymous.jpg"
+  },
+  {
+    "who": "Adam Zébulle",
+    "email": "adam.zebulle@example.fr",
+    "classe": "5A",
+    "specialite": "Court partout, même pendant les dictées",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/anonymous.jpg"
+  },
+  {
+    "who": "Nina Goudron",
+    "email": "nina.goudron@example.fr",
+    "classe": "5A",
+    "specialite": "Répare les trous de colle avec du scotch magique",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/anonymous.jpg"
+  }
+  // ... 150 autres élèves générés de la même façon
+]
