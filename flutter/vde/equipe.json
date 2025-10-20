@@ -46,5 +46,181 @@
     ],
     "poste": "Prof de chômage",
     "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/maria-helene.jpg"
+  },
+  {
+    "who": "Jean-Kévin Dupoumon",
+    "email": "jean-kevin.dupoumon@example.com",
+    "diplomes": [
+      "Licence en Histoire de la Paresse Antique",
+      "Master en Études Modernes du Fayotage",
+      "Doctorat en Sciences Sociales de la Sieste"
+    ],
+    "poste": "Prof d’histoire-géo",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/jean-kevin.jpg"
+  },
+  {
+    "who": "Lucienne Grosbidon",
+    "email": "lucienne.grosbidon@example.com",
+    "diplomes": [
+      "CAPES de râlerie et gestion des adolescents",
+      "Licence en pédagogie des devoirs jamais faits",
+      "Doctorat en soupirs désespérés"
+    ],
+    "poste": "Prof de français",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/lucienne.jpg"
+  },
+  {
+    "who": "Patrick Sansfil",
+    "email": "patrick.sansfil@example.com",
+    "diplomes": [
+      "Licence en Technologies Débranchées",
+      "Master en Informatique des Pannes Répétées",
+      "Doctorat en Connexion Improbable"
+    ],
+    "poste": "Prof de technologie",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/patrick.jpg"
+  },
+  {
+    "who": "Ginette Choucroute",
+    "email": "ginette.choucroute@example.com",
+    "diplomes": [
+      "CAP Cuisine Collective",
+      "Brevet Supérieur de Tartiflette Appliquée",
+      "Doctorat en Gestion des Cantines et Chaos Alimentaire"
+    ],
+    "poste": "Cheffe de cantine",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/ginette.jpg"
+  },
+  {
+    "who": "Bernard Clabousse",
+    "email": "bernard.clabousse@example.com",
+    "diplomes": [
+      "Certificat de Mécanique de Porte qui grince",
+      "Diplôme en Entretien de Tapis Usé",
+      "Master en Réparation d’Urgence du Rien"
+    ],
+    "poste": "Agent d’entretien",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/bernard.jpg"
+  },
+  {
+    "who": "Josiane Labaffe",
+    "email": "josiane.labaffe@example.com",
+    "diplomes": [
+      "Licence en Psychologie du Collégien Épuisant",
+      "Master en Discipline Collective et Soupirs",
+      "Doctorat en Crise de Nerfs Institutionnelle"
+    ],
+    "poste": "CPE (Conseillère principale d’éducation)",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/josiane.jpg"
+  },
+  {
+    "who": "Michel Tocard",
+    "email": "michel.tocard@example.com",
+    "diplomes": [
+      "Licence en Physique des Chutes de Craies",
+      "Master en Calculs Mentaux Imaginaires",
+      "Doctorat en Pédagogie de l’Approximation"
+    ],
+    "poste": "Prof de maths",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/michel.jpg"
+  },
+  {
+    "who": "Sandrine Tuture",
+    "email": "sandrine.tuture@example.com",
+    "diplomes": [
+      "CAPES d’Arts Plastiques Contemporains",
+      "Licence en Collage Émotionnel",
+      "Doctorat en Philosophie du Feutre Sec"
+    ],
+    "poste": "Prof d’arts plastiques",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/sandrine.jpg"
+  },
+  {
+    "who": "Roger Lapince",
+    "email": "roger.lapince@example.com",
+    "diplomes": [
+      "Licence en Biologie de la Salle de Classe",
+      "Master en Observation des Espèces d’Élèves Rares",
+      "Doctorat en Microscopie du Carnet de Notes"
+    ],
+    "poste": "Prof de SVT",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/roger.jpg"
+  },
+  {
+    "who": "Nathalie Bidon",
+    "email": "nathalie.bidon@example.com",
+    "diplomes": [
+      "Licence en Théâtre de Classe",
+      "Master en Improvisation Pédagogique",
+      "Doctorat en Cris Dramatiques du Lundi Matin"
+    ],
+    "poste": "Prof de français-théâtre",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/nathalie.jpg"
+  },
+  {
+    "who": "Gilbert Malpoli",
+    "email": "gilbert.malpoli@example.com",
+    "diplomes": [
+      "Licence en Éducation Civique et Politique de la Machine à Café",
+      "Master en Rappel de Politesse Oubliée",
+      "Doctorat en Punition Collective Non Productive"
+    ],
+    "poste": "Prof d’éducation morale et civique",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/gilbert.jpg"
+  },
+  {
+    "who": "Sabrina Lapatate",
+    "email": "sabrina.lapatate@example.com",
+    "diplomes": [
+      "Licence STAPS en Lancer de Tableau",
+      "Master en Esquive de Ballon de Volley",
+      "Doctorat en Gestion des Cris dans un Gymnase"
+    ],
+    "poste": "Prof de sport",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/sabrina.jpg"
+  },
+  {
+    "who": "Thierry Delot",
+    "email": "thierry.delot@example.com",
+    "diplomes": [
+      "Licence en Gestion du Désordre Administratif",
+      "Master en Report de Conseils de Classe",
+      "Doctorat en Papier Perdu au Bureau"
+    ],
+    "poste": "Principal adjoint",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/thierry.jpg"
+  },
+  {
+    "who": "Paulette Micra",
+    "email": "paulette.micra@example.com",
+    "diplomes": [
+      "Licence en Documentation et Surveillance Passive",
+      "Master en Organisation de Silences Collectifs",
+      "Doctorat en Chutologie Appliquée"
+    ],
+    "poste": "Prof documentaliste",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/paulette.jpg"
+  },
+  {
+    "who": "Gérard Moumoute",
+    "email": "gerard.moumoute@example.com",
+    "diplomes": [
+      "Licence en Musique de Couloir",
+      "Master en Chant des Récréations",
+      "Doctorat en Éducation Rythmique du Silence"
+    ],
+    "poste": "Prof de musique",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/gerard.jpg"
+  },
+  {
+    "who": "Odile Teflon",
+    "email": "odile.teflon@example.com",
+    "diplomes": [
+      "Licence en Détente Post-Collège",
+      "Master en Relaxation de Bureau",
+      "Doctorat en Méditation des Réunions Inutiles"
+    ],
+    "poste": "Prof de vie scolaire",
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/people/odile.jpg"
   }
 ]
