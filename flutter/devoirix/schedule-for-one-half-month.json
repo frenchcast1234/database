@@ -16,8 +16,16 @@
     ],
     "sports": [
       "Parachute EPS",
-      "Dressage canin EPS"
-      
+      "Dressage canin EPS",
+      "10'000 mètres course EPS"
+    ],
+    "arts" [
+      "Compsition musicale",
+      "Peinture",
+      "Education muicale"
+    ],
+    "autre": [
+      "Cantine"
     ]
   }
   "semaine1": {
