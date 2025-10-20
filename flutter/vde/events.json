@@ -4,48 +4,48 @@
     "organisateur": "Total Energies",
     "date": "12-01-2027",
     "subject": "Les bienfaits du pétrole pour l'environnement",
-    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/fiole.png"
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/events/fiole.png"
   },
   {
     "title": "General Electric",
     "organisateur": "General Electric",
     "date": "2024-08-20",
     "subject": "Aucune idée",
-    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/foudre.png"
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/events/foudre.png"
   },
   {
     "title": "Alain D. VS Eunji W.",
     "organisateur": "Les anti-VdE",
     "date": "32-03-2026",
     "subject": "Qui va gagner dans ce combat de boxe épique ?",
-    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/caca.png"
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/events/caca.png"
   },
   {
     "title": "les voitures à propulsion BANANE",
     "organisateur": "BANANE Corp",
     "date": "25-08-2027",
     "subject": "Un système d'essence révolutionnaire : la propulsion à base de BANANE",
-    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/banane.png"
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/events/banane.png"
   },
   {
     "title": "La conférence du PROUT",
     "organisateur": "BANANE Corp",
     "date": "18-08-2027",
     "subject": "Les flatulences sentent bon !",
-    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/prout.png"
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/events/prout.png"
   },
   {
     "title": "Les voitures du futur",
     "organisateur": "Peugeot & Peugeot",
     "date": "du 15-03-2026 au 18-03-2026",
     "subject": "Quelles seront les voitures dans le futur",
-    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/automobile.png"
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/events/automobile.png"
   },
   {
     "title": "The water",
     "organisateur": "Emmanuel Macron",
     "date": "78-48-5874",
     "subject": "The price of the water in the futur",
-    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/drop.png"
+    "avatar": "https://raw.githubusercontent.com/frenchcast1234/database/main/flutter/vde/images/events/drop.png"
   }
 ]
